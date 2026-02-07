@@ -114,3 +114,15 @@ h1, h2 {
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
+.image-section {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.image-section img {
+  width: 90%;
+  max-width: 600px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+}
+
